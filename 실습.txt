@@ -1,0 +1,9 @@
+1. GitStudy2 폴더 만들기
+2. GitStudy2 폴더를 git 저장소로 등록 >> git init
+3. 텍스트파일 생성
+4. add > commit
+5. Github Repository >> git_study2
+6. GitStudy2폴더의 git 저장소와 git_study2 origin 리모트 저장소 연결
+7. main 브랜치 최초 push
+8. 새 텍스트파일 하나 더 추가
+9. add > commit > push
